@@ -135,13 +135,13 @@ lib.ssMetadata = [
 		{name:"invitacionBoda_atlas_130", frames: [[0,0,1920,1080]]},
 		{name:"invitacionBoda_atlas_131", frames: [[0,0,1920,1080]]},
 		{name:"invitacionBoda_atlas_132", frames: [[0,0,1920,1080]]},
-		{name:"invitacionBoda_atlas_133", frames: [[904,1534,450,450],[1356,1082,450,450],[1356,1534,450,450],[0,1082,450,450],[0,1534,450,450],[452,1082,450,450],[904,1082,450,450],[452,1534,450,450],[0,0,1920,1080]]},
-		{name:"invitacionBoda_atlas_134", frames: [[904,0,450,450],[1356,0,450,450],[0,0,450,450],[0,452,450,450],[0,904,450,450],[904,904,450,450],[452,452,450,450],[0,1356,450,450],[452,904,450,450],[452,0,450,450],[452,1356,450,450],[904,452,450,450],[1356,452,450,450],[904,1356,450,450],[1356,904,450,450],[1356,1356,450,450]]},
-		{name:"invitacionBoda_atlas_135", frames: [[452,904,450,450],[904,904,450,450],[904,0,450,450],[1356,0,450,450],[904,1356,450,450],[0,452,450,450],[0,0,450,450],[0,904,450,450],[452,0,450,450],[1356,904,450,450],[904,452,450,450],[1356,452,450,450],[1356,1356,450,450],[0,1356,450,450],[452,452,450,450],[452,1356,450,450]]},
-		{name:"invitacionBoda_atlas_136", frames: [[452,1356,450,450],[452,0,450,450],[0,904,450,450],[0,0,450,450],[904,0,450,450],[904,452,450,450],[0,452,450,450],[1356,0,450,450],[1356,452,450,450],[0,1356,450,450],[452,452,450,450],[452,904,450,450],[904,904,450,450],[1356,904,450,450],[904,1356,450,450],[1356,1356,450,450]]},
-		{name:"invitacionBoda_atlas_137", frames: [[1356,0,450,450],[0,904,450,450],[1356,452,450,450],[0,1356,450,450],[452,0,450,450],[904,1356,450,450],[904,904,450,450],[904,452,450,450],[0,452,450,450],[452,1356,450,450],[452,452,450,450],[452,904,450,450],[0,0,450,450],[1356,904,450,450],[1356,1356,450,450],[904,0,450,450]]},
-		{name:"invitacionBoda_atlas_138", frames: [[904,452,450,450],[452,452,450,450],[904,0,450,450],[452,904,450,450],[452,1356,450,450],[0,0,450,450],[1356,452,450,450],[904,904,450,450],[0,452,450,450],[904,1356,450,450],[1356,904,450,450],[0,904,450,450],[1356,0,450,450],[1356,1356,450,450],[0,1356,450,450],[452,0,450,450]]},
-		{name:"invitacionBoda_atlas_139", frames: [[0,0,450,450],[452,452,450,450],[452,0,450,450],[0,904,450,450],[0,452,450,450],[452,904,450,450],[0,1356,450,450]]}
+		{name:"invitacionBoda_atlas_133", frames: [[0,0,1920,1080],[452,1534,450,450],[452,1082,450,450],[0,1082,450,450],[1356,1082,450,450],[0,1534,450,450],[904,1082,450,450],[904,1534,450,450],[1356,1534,450,450]]},
+		{name:"invitacionBoda_atlas_134", frames: [[0,1356,450,450],[0,0,450,450],[0,452,450,450],[0,904,450,450],[452,0,450,450],[904,0,450,450],[1356,0,450,450],[452,452,450,450],[452,904,450,450],[1356,1356,450,450],[904,904,450,450],[1356,904,450,450],[904,1356,450,450],[904,452,450,450],[452,1356,450,450],[1356,452,450,450]]},
+		{name:"invitacionBoda_atlas_135", frames: [[904,452,450,450],[452,452,450,450],[1356,0,450,450],[1356,452,450,450],[1356,1356,450,450],[1356,904,450,450],[904,904,450,450],[904,1356,450,450],[452,904,450,450],[452,1356,450,450],[0,0,450,450],[452,0,450,450],[0,452,450,450],[0,1356,450,450],[0,904,450,450],[904,0,450,450]]},
+		{name:"invitacionBoda_atlas_136", frames: [[452,904,450,450],[1356,0,450,450],[904,0,450,450],[452,452,450,450],[452,1356,450,450],[904,452,450,450],[1356,452,450,450],[904,904,450,450],[904,1356,450,450],[452,0,450,450],[1356,904,450,450],[0,1356,450,450],[0,0,450,450],[0,452,450,450],[1356,1356,450,450],[0,904,450,450]]},
+		{name:"invitacionBoda_atlas_137", frames: [[452,0,450,450],[0,1356,450,450],[0,452,450,450],[0,0,450,450],[0,904,450,450],[904,0,450,450],[1356,0,450,450],[452,452,450,450],[1356,1356,450,450],[452,904,450,450],[1356,904,450,450],[452,1356,450,450],[904,904,450,450],[904,452,450,450],[904,1356,450,450],[1356,452,450,450]]},
+		{name:"invitacionBoda_atlas_138", frames: [[0,1356,450,450],[452,0,450,450],[904,0,450,450],[1356,0,450,450],[0,904,450,450],[904,904,450,450],[452,452,450,450],[1356,1356,450,450],[452,904,450,450],[1356,452,450,450],[452,1356,450,450],[904,452,450,450],[904,1356,450,450],[0,0,450,450],[0,452,450,450],[1356,904,450,450]]},
+		{name:"invitacionBoda_atlas_139", frames: [[0,904,450,450],[452,0,450,450],[0,452,450,450],[0,0,450,450],[452,452,450,450],[452,904,450,450],[0,1356,450,450]]}
 ];
 
 
@@ -150,189 +150,189 @@ lib.ssMetadata = [
 
 
 (lib._0000 = function() {
-	this.initialize(ss["invitacionBoda_atlas_5"]);
+	this.initialize(ss["invitacionBoda_atlas_129"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0001 = function() {
-	this.initialize(ss["invitacionBoda_atlas_7"]);
+	this.initialize(ss["invitacionBoda_atlas_131"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0002 = function() {
-	this.initialize(ss["invitacionBoda_atlas_10"]);
+	this.initialize(ss["invitacionBoda_atlas_124"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0003 = function() {
-	this.initialize(ss["invitacionBoda_atlas_23"]);
+	this.initialize(ss["invitacionBoda_atlas_127"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0004 = function() {
-	this.initialize(ss["invitacionBoda_atlas_17"]);
+	this.initialize(ss["invitacionBoda_atlas_125"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0005 = function() {
-	this.initialize(ss["invitacionBoda_atlas_18"]);
+	this.initialize(ss["invitacionBoda_atlas_132"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0006 = function() {
-	this.initialize(ss["invitacionBoda_atlas_20"]);
+	this.initialize(ss["invitacionBoda_atlas_126"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0007 = function() {
-	this.initialize(ss["invitacionBoda_atlas_21"]);
+	this.initialize(ss["invitacionBoda_atlas_128"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0008 = function() {
-	this.initialize(ss["invitacionBoda_atlas_22"]);
+	this.initialize(ss["invitacionBoda_atlas_133"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0009 = function() {
-	this.initialize(ss["invitacionBoda_atlas_19"]);
+	this.initialize(ss["invitacionBoda_atlas_130"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0010 = function() {
-	this.initialize(ss["invitacionBoda_atlas_8"]);
+	this.initialize(ss["invitacionBoda_atlas_59"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0011 = function() {
-	this.initialize(ss["invitacionBoda_atlas_2"]);
+	this.initialize(ss["invitacionBoda_atlas_61"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0012 = function() {
-	this.initialize(ss["invitacionBoda_atlas_24"]);
+	this.initialize(ss["invitacionBoda_atlas_51"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0013 = function() {
-	this.initialize(ss["invitacionBoda_atlas_3"]);
+	this.initialize(ss["invitacionBoda_atlas_60"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0014 = function() {
-	this.initialize(ss["invitacionBoda_atlas_25"]);
+	this.initialize(ss["invitacionBoda_atlas_54"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0015 = function() {
-	this.initialize(ss["invitacionBoda_atlas_9"]);
+	this.initialize(ss["invitacionBoda_atlas_53"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0016 = function() {
-	this.initialize(ss["invitacionBoda_atlas_4"]);
+	this.initialize(ss["invitacionBoda_atlas_62"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0017 = function() {
-	this.initialize(ss["invitacionBoda_atlas_26"]);
+	this.initialize(ss["invitacionBoda_atlas_55"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0018 = function() {
-	this.initialize(ss["invitacionBoda_atlas_27"]);
+	this.initialize(ss["invitacionBoda_atlas_58"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0019 = function() {
-	this.initialize(ss["invitacionBoda_atlas_6"]);
+	this.initialize(ss["invitacionBoda_atlas_50"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0020 = function() {
-	this.initialize(ss["invitacionBoda_atlas_28"]);
+	this.initialize(ss["invitacionBoda_atlas_56"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0021 = function() {
-	this.initialize(ss["invitacionBoda_atlas_29"]);
+	this.initialize(ss["invitacionBoda_atlas_57"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0022 = function() {
-	this.initialize(ss["invitacionBoda_atlas_30"]);
+	this.initialize(ss["invitacionBoda_atlas_52"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0023 = function() {
-	this.initialize(ss["invitacionBoda_atlas_15"]);
+	this.initialize(ss["invitacionBoda_atlas_63"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0024 = function() {
-	this.initialize(ss["invitacionBoda_atlas_31"]);
+	this.initialize(ss["invitacionBoda_atlas_49"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0025 = function() {
-	this.initialize(ss["invitacionBoda_atlas_16"]);
+	this.initialize(ss["invitacionBoda_atlas_32"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0026 = function() {
-	this.initialize(ss["invitacionBoda_atlas_32"]);
+	this.initialize(ss["invitacionBoda_atlas_31"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -346,575 +346,575 @@ lib.ssMetadata = [
 
 
 (lib._0028 = function() {
-	this.initialize(ss["invitacionBoda_atlas_33"]);
+	this.initialize(ss["invitacionBoda_atlas_22"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0029 = function() {
-	this.initialize(ss["invitacionBoda_atlas_12"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0030 = function() {
-	this.initialize(ss["invitacionBoda_atlas_34"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0031 = function() {
-	this.initialize(ss["invitacionBoda_atlas_13"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0032 = function() {
-	this.initialize(ss["invitacionBoda_atlas_35"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0033 = function() {
-	this.initialize(ss["invitacionBoda_atlas_14"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0034 = function() {
-	this.initialize(ss["invitacionBoda_atlas_36"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0035 = function() {
-	this.initialize(ss["invitacionBoda_atlas_37"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0036 = function() {
-	this.initialize(ss["invitacionBoda_atlas_38"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0037 = function() {
-	this.initialize(ss["invitacionBoda_atlas_39"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0038 = function() {
-	this.initialize(ss["invitacionBoda_atlas_54"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0039 = function() {
-	this.initialize(ss["invitacionBoda_atlas_40"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0040 = function() {
-	this.initialize(ss["invitacionBoda_atlas_50"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0041 = function() {
-	this.initialize(ss["invitacionBoda_atlas_51"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0042 = function() {
-	this.initialize(ss["invitacionBoda_atlas_41"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0043 = function() {
-	this.initialize(ss["invitacionBoda_atlas_42"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0044 = function() {
-	this.initialize(ss["invitacionBoda_atlas_43"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0045 = function() {
-	this.initialize(ss["invitacionBoda_atlas_44"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0046 = function() {
-	this.initialize(ss["invitacionBoda_atlas_47"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0047 = function() {
-	this.initialize(ss["invitacionBoda_atlas_53"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0048 = function() {
-	this.initialize(ss["invitacionBoda_atlas_45"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0049 = function() {
-	this.initialize(ss["invitacionBoda_atlas_48"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0050 = function() {
-	this.initialize(ss["invitacionBoda_atlas_46"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0051 = function() {
-	this.initialize(ss["invitacionBoda_atlas_49"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0052 = function() {
-	this.initialize(ss["invitacionBoda_atlas_52"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0053 = function() {
-	this.initialize(ss["invitacionBoda_atlas_56"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0054 = function() {
-	this.initialize(ss["invitacionBoda_atlas_55"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0055 = function() {
-	this.initialize(ss["invitacionBoda_atlas_60"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0056 = function() {
-	this.initialize(ss["invitacionBoda_atlas_59"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0057 = function() {
-	this.initialize(ss["invitacionBoda_atlas_61"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0058 = function() {
-	this.initialize(ss["invitacionBoda_atlas_57"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0059 = function() {
-	this.initialize(ss["invitacionBoda_atlas_58"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0060 = function() {
-	this.initialize(ss["invitacionBoda_atlas_62"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._0061 = function() {
 	this.initialize(ss["invitacionBoda_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib._0030 = function() {
+	this.initialize(ss["invitacionBoda_atlas_28"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0031 = function() {
+	this.initialize(ss["invitacionBoda_atlas_15"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0032 = function() {
+	this.initialize(ss["invitacionBoda_atlas_23"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0033 = function() {
+	this.initialize(ss["invitacionBoda_atlas_18"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0034 = function() {
+	this.initialize(ss["invitacionBoda_atlas_12"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0035 = function() {
+	this.initialize(ss["invitacionBoda_atlas_19"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0036 = function() {
+	this.initialize(ss["invitacionBoda_atlas_29"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0037 = function() {
+	this.initialize(ss["invitacionBoda_atlas_14"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0038 = function() {
+	this.initialize(ss["invitacionBoda_atlas_17"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0039 = function() {
+	this.initialize(ss["invitacionBoda_atlas_4"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0040 = function() {
+	this.initialize(ss["invitacionBoda_atlas_26"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0041 = function() {
+	this.initialize(ss["invitacionBoda_atlas_13"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0042 = function() {
+	this.initialize(ss["invitacionBoda_atlas_16"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0043 = function() {
+	this.initialize(ss["invitacionBoda_atlas_20"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0044 = function() {
+	this.initialize(ss["invitacionBoda_atlas_33"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0045 = function() {
+	this.initialize(ss["invitacionBoda_atlas_24"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0046 = function() {
+	this.initialize(ss["invitacionBoda_atlas_6"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0047 = function() {
+	this.initialize(ss["invitacionBoda_atlas_2"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0048 = function() {
+	this.initialize(ss["invitacionBoda_atlas_25"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0049 = function() {
+	this.initialize(ss["invitacionBoda_atlas_30"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0050 = function() {
+	this.initialize(ss["invitacionBoda_atlas_21"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0051 = function() {
+	this.initialize(ss["invitacionBoda_atlas_27"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0052 = function() {
+	this.initialize(ss["invitacionBoda_atlas_34"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0053 = function() {
+	this.initialize(ss["invitacionBoda_atlas_3"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0054 = function() {
+	this.initialize(ss["invitacionBoda_atlas_35"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0055 = function() {
+	this.initialize(ss["invitacionBoda_atlas_36"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0056 = function() {
+	this.initialize(ss["invitacionBoda_atlas_5"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0057 = function() {
+	this.initialize(ss["invitacionBoda_atlas_37"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0058 = function() {
+	this.initialize(ss["invitacionBoda_atlas_38"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0059 = function() {
+	this.initialize(ss["invitacionBoda_atlas_7"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0060 = function() {
+	this.initialize(ss["invitacionBoda_atlas_39"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._0061 = function() {
+	this.initialize(ss["invitacionBoda_atlas_8"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib._0062 = function() {
-	this.initialize(ss["invitacionBoda_atlas_71"]);
+	this.initialize(ss["invitacionBoda_atlas_40"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0063 = function() {
-	this.initialize(ss["invitacionBoda_atlas_63"]);
+	this.initialize(ss["invitacionBoda_atlas_9"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0064 = function() {
-	this.initialize(ss["invitacionBoda_atlas_66"]);
+	this.initialize(ss["invitacionBoda_atlas_41"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0065 = function() {
-	this.initialize(ss["invitacionBoda_atlas_72"]);
+	this.initialize(ss["invitacionBoda_atlas_10"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0066 = function() {
-	this.initialize(ss["invitacionBoda_atlas_64"]);
+	this.initialize(ss["invitacionBoda_atlas_48"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0067 = function() {
-	this.initialize(ss["invitacionBoda_atlas_67"]);
+	this.initialize(ss["invitacionBoda_atlas_45"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0068 = function() {
-	this.initialize(ss["invitacionBoda_atlas_68"]);
+	this.initialize(ss["invitacionBoda_atlas_43"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0069 = function() {
-	this.initialize(ss["invitacionBoda_atlas_73"]);
+	this.initialize(ss["invitacionBoda_atlas_47"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0070 = function() {
-	this.initialize(ss["invitacionBoda_atlas_65"]);
+	this.initialize(ss["invitacionBoda_atlas_44"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0071 = function() {
-	this.initialize(ss["invitacionBoda_atlas_69"]);
+	this.initialize(ss["invitacionBoda_atlas_46"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._0072 = function() {
-	this.initialize(ss["invitacionBoda_atlas_70"]);
+	this.initialize(ss["invitacionBoda_atlas_42"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_000 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["invitacionBoda_atlas_133"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_001 = function() {
 	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(0);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_002 = function() {
 	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_003 = function() {
 	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_004 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["invitacionBoda_atlas_133"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_005 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(2);
+	this.initialize(ss["invitacionBoda_atlas_133"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_006 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(3);
+	this.initialize(ss["invitacionBoda_atlas_133"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_007 = function() {
 	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_008 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(5);
+	this.initialize(ss["invitacionBoda_atlas_133"]);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_009 = function() {
 	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(6);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_010 = function() {
 	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(7);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_011 = function() {
 	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(8);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_012 = function() {
 	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(9);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_013 = function() {
 	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(10);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_014 = function() {
 	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_015 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(12);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_016 = function() {
-	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_017 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(13);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_018 = function() {
-	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_019 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(14);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_020 = function() {
-	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_021 = function() {
-	this.initialize(ss["invitacionBoda_atlas_134"]);
-	this.gotoAndStop(15);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_022 = function() {
-	this.initialize(ss["invitacionBoda_atlas_133"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.avioncito_015 = function() {
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_016 = function() {
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_017 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_018 = function() {
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_019 = function() {
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_020 = function() {
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_021 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_022 = function() {
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.avioncito_023 = function() {
-	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(7);
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_024 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_025 = function() {
 	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_026 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_027 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(2);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_028 = function() {
 	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_029 = function() {
 	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_030 = function() {
 	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(3);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_031 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.initialize(ss["invitacionBoda_atlas_135"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_032 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(3);
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_033 = function() {
 	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_034 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(5);
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_036 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(5);
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_037 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(6);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -927,581 +927,581 @@ lib.ssMetadata = [
 
 
 (lib.avioncito_039 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(8);
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_040 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(9);
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_041 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(10);
+	this.initialize(ss["invitacionBoda_atlas_136"]);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_042 = function() {
 	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(6);
+	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_043 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(7);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_044 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(8);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_045 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(11);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_046 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(9);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_047 = function() {
 	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(12);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_048 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(13);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_049 = function() {
 	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(14);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_050 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(10);
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_051 = function() {
-	this.initialize(ss["invitacionBoda_atlas_135"]);
-	this.gotoAndStop(15);
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_052 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(11);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_053 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(12);
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_054 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(13);
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_055 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(14);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_056 = function() {
 	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(0);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_057 = function() {
 	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(0);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_058 = function() {
 	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_059 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(2);
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_060 = function() {
 	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_061 = function() {
 	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(3);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_062 = function() {
 	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_063 = function() {
-	this.initialize(ss["invitacionBoda_atlas_136"]);
-	this.gotoAndStop(15);
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_064 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(3);
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_065 = function() {
 	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.avioncito_066 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_067 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_068 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_069 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_070 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_071 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(7);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_072 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(7);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_073 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_074 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_075 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_076 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_077 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(12);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_078 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_079 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_080 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(13);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_081 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_082 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_083 = function() {
-	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(14);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_084 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(12);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_085 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(13);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_086 = function() {
 	this.initialize(ss["invitacionBoda_atlas_139"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_087 = function() {
+(lib.avioncito_067 = function() {
 	this.initialize(ss["invitacionBoda_atlas_139"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_088 = function() {
-	this.initialize(ss["invitacionBoda_atlas_137"]);
-	this.gotoAndStop(14);
+(lib.avioncito_068 = function() {
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_089 = function() {
+(lib.avioncito_069 = function() {
 	this.initialize(ss["invitacionBoda_atlas_139"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_090 = function() {
-	this.initialize(ss["invitacionBoda_atlas_139"]);
-	this.gotoAndStop(3);
+(lib.avioncito_070 = function() {
+	this.initialize(ss["invitacionBoda_atlas_137"]);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_091 = function() {
+(lib.avioncito_071 = function() {
 	this.initialize(ss["invitacionBoda_atlas_138"]);
-	this.gotoAndStop(15);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_092 = function() {
-	this.initialize(ss["invitacionBoda_atlas_139"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.avioncito_093 = function() {
+(lib.avioncito_072 = function() {
 	this.initialize(ss["invitacionBoda_atlas_137"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_094 = function() {
+(lib.avioncito_073 = function() {
+	this.initialize(ss["invitacionBoda_atlas_139"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_074 = function() {
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_075 = function() {
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_076 = function() {
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(14);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_077 = function() {
+	this.initialize(ss["invitacionBoda_atlas_139"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_078 = function() {
+	this.initialize(ss["invitacionBoda_atlas_138"]);
+	this.gotoAndStop(15);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_079 = function() {
 	this.initialize(ss["invitacionBoda_atlas_139"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.avioncito_095 = function() {
+(lib.avioncito_080 = function() {
 	this.initialize(ss["invitacionBoda_atlas_139"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.avioncito_081 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(7);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_082 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(8);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_083 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(10);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_084 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_085 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_086 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_087 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(9);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_088 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(14);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_089 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(10);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_090 = function() {
+	this.initialize(ss["invitacionBoda_atlas_135"]);
+	this.gotoAndStop(15);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_091 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_092 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_093 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_094 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(14);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.avioncito_095 = function() {
+	this.initialize(ss["invitacionBoda_atlas_134"]);
+	this.gotoAndStop(15);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.BGImage = function() {
-	this.initialize(ss["invitacionBoda_atlas_94"]);
+	this.initialize(ss["invitacionBoda_atlas_72"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0000 = function() {
-	this.initialize(ss["invitacionBoda_atlas_74"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0001 = function() {
-	this.initialize(ss["invitacionBoda_atlas_75"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0002 = function() {
 	this.initialize(ss["invitacionBoda_atlas_76"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.Intro_0001 = function() {
+	this.initialize(ss["invitacionBoda_atlas_68"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0002 = function() {
+	this.initialize(ss["invitacionBoda_atlas_69"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.Intro_0003 = function() {
-	this.initialize(ss["invitacionBoda_atlas_86"]);
+	this.initialize(ss["invitacionBoda_atlas_71"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0004 = function() {
-	this.initialize(ss["invitacionBoda_atlas_93"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0005 = function() {
-	this.initialize(ss["invitacionBoda_atlas_77"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0006 = function() {
-	this.initialize(ss["invitacionBoda_atlas_89"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0007 = function() {
 	this.initialize(ss["invitacionBoda_atlas_78"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0008 = function() {
-	this.initialize(ss["invitacionBoda_atlas_79"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0009 = function() {
-	this.initialize(ss["invitacionBoda_atlas_95"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0010 = function() {
-	this.initialize(ss["invitacionBoda_atlas_88"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0011 = function() {
-	this.initialize(ss["invitacionBoda_atlas_80"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0012 = function() {
-	this.initialize(ss["invitacionBoda_atlas_96"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0013 = function() {
-	this.initialize(ss["invitacionBoda_atlas_83"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0014 = function() {
+(lib.Intro_0005 = function() {
 	this.initialize(ss["invitacionBoda_atlas_81"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0015 = function() {
+(lib.Intro_0006 = function() {
+	this.initialize(ss["invitacionBoda_atlas_73"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0007 = function() {
+	this.initialize(ss["invitacionBoda_atlas_80"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0008 = function() {
+	this.initialize(ss["invitacionBoda_atlas_70"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0009 = function() {
+	this.initialize(ss["invitacionBoda_atlas_66"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0010 = function() {
+	this.initialize(ss["invitacionBoda_atlas_64"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0011 = function() {
+	this.initialize(ss["invitacionBoda_atlas_74"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0012 = function() {
 	this.initialize(ss["invitacionBoda_atlas_82"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.Intro_0013 = function() {
+	this.initialize(ss["invitacionBoda_atlas_75"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0014 = function() {
+	this.initialize(ss["invitacionBoda_atlas_77"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0015 = function() {
+	this.initialize(ss["invitacionBoda_atlas_79"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.Intro_0016 = function() {
-	this.initialize(ss["invitacionBoda_atlas_84"]);
+	this.initialize(ss["invitacionBoda_atlas_65"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0017 = function() {
-	this.initialize(ss["invitacionBoda_atlas_85"]);
+	this.initialize(ss["invitacionBoda_atlas_83"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0018 = function() {
-	this.initialize(ss["invitacionBoda_atlas_87"]);
+	this.initialize(ss["invitacionBoda_atlas_84"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0019 = function() {
-	this.initialize(ss["invitacionBoda_atlas_90"]);
+	this.initialize(ss["invitacionBoda_atlas_85"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0020 = function() {
-	this.initialize(ss["invitacionBoda_atlas_91"]);
+	this.initialize(ss["invitacionBoda_atlas_86"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0021 = function() {
-	this.initialize(ss["invitacionBoda_atlas_92"]);
+	this.initialize(ss["invitacionBoda_atlas_67"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0022 = function() {
-	this.initialize(ss["invitacionBoda_atlas_99"]);
+	this.initialize(ss["invitacionBoda_atlas_96"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0023 = function() {
-	this.initialize(ss["invitacionBoda_atlas_97"]);
+	this.initialize(ss["invitacionBoda_atlas_87"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0024 = function() {
-	this.initialize(ss["invitacionBoda_atlas_98"]);
+	this.initialize(ss["invitacionBoda_atlas_109"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1515,77 +1515,77 @@ lib.ssMetadata = [
 
 
 (lib.Intro_0026 = function() {
-	this.initialize(ss["invitacionBoda_atlas_111"]);
+	this.initialize(ss["invitacionBoda_atlas_97"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0027 = function() {
-	this.initialize(ss["invitacionBoda_atlas_128"]);
+	this.initialize(ss["invitacionBoda_atlas_110"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0028 = function() {
-	this.initialize(ss["invitacionBoda_atlas_129"]);
+	this.initialize(ss["invitacionBoda_atlas_107"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0029 = function() {
-	this.initialize(ss["invitacionBoda_atlas_121"]);
+	this.initialize(ss["invitacionBoda_atlas_88"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0030 = function() {
-	this.initialize(ss["invitacionBoda_atlas_127"]);
+	this.initialize(ss["invitacionBoda_atlas_101"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0031 = function() {
-	this.initialize(ss["invitacionBoda_atlas_131"]);
+	this.initialize(ss["invitacionBoda_atlas_104"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0032 = function() {
-	this.initialize(ss["invitacionBoda_atlas_105"]);
+	this.initialize(ss["invitacionBoda_atlas_102"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0033 = function() {
-	this.initialize(ss["invitacionBoda_atlas_117"]);
+	this.initialize(ss["invitacionBoda_atlas_95"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0034 = function() {
-	this.initialize(ss["invitacionBoda_atlas_100"]);
+	this.initialize(ss["invitacionBoda_atlas_89"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0035 = function() {
-	this.initialize(ss["invitacionBoda_atlas_125"]);
+	this.initialize(ss["invitacionBoda_atlas_90"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0036 = function() {
-	this.initialize(ss["invitacionBoda_atlas_118"]);
+	this.initialize(ss["invitacionBoda_atlas_105"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1599,147 +1599,147 @@ lib.ssMetadata = [
 
 
 (lib.Intro_0038 = function() {
-	this.initialize(ss["invitacionBoda_atlas_132"]);
+	this.initialize(ss["invitacionBoda_atlas_99"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0039 = function() {
-	this.initialize(ss["invitacionBoda_atlas_104"]);
+	this.initialize(ss["invitacionBoda_atlas_98"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0040 = function() {
-	this.initialize(ss["invitacionBoda_atlas_107"]);
+	this.initialize(ss["invitacionBoda_atlas_100"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0041 = function() {
-	this.initialize(ss["invitacionBoda_atlas_113"]);
+	this.initialize(ss["invitacionBoda_atlas_91"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0042 = function() {
-	this.initialize(ss["invitacionBoda_atlas_114"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0043 = function() {
-	this.initialize(ss["invitacionBoda_atlas_101"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0044 = function() {
-	this.initialize(ss["invitacionBoda_atlas_133"]);
-	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0045 = function() {
-	this.initialize(ss["invitacionBoda_atlas_109"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0046 = function() {
-	this.initialize(ss["invitacionBoda_atlas_119"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0047 = function() {
 	this.initialize(ss["invitacionBoda_atlas_108"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0048 = function() {
-	this.initialize(ss["invitacionBoda_atlas_110"]);
+(lib.Intro_0043 = function() {
+	this.initialize(ss["invitacionBoda_atlas_94"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0049 = function() {
-	this.initialize(ss["invitacionBoda_atlas_122"]);
+(lib.Intro_0044 = function() {
+	this.initialize(ss["invitacionBoda_atlas_92"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0050 = function() {
-	this.initialize(ss["invitacionBoda_atlas_123"]);
+(lib.Intro_0045 = function() {
+	this.initialize(ss["invitacionBoda_atlas_93"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0051 = function() {
-	this.initialize(ss["invitacionBoda_atlas_112"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Intro_0052 = function() {
+(lib.Intro_0046 = function() {
 	this.initialize(ss["invitacionBoda_atlas_115"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0053 = function() {
-	this.initialize(ss["invitacionBoda_atlas_124"]);
+(lib.Intro_0047 = function() {
+	this.initialize(ss["invitacionBoda_atlas_111"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0054 = function() {
-	this.initialize(ss["invitacionBoda_atlas_116"]);
+(lib.Intro_0048 = function() {
+	this.initialize(ss["invitacionBoda_atlas_119"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Intro_0055 = function() {
+(lib.Intro_0049 = function() {
 	this.initialize(ss["invitacionBoda_atlas_120"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.Intro_0050 = function() {
+	this.initialize(ss["invitacionBoda_atlas_121"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0051 = function() {
+	this.initialize(ss["invitacionBoda_atlas_116"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0052 = function() {
+	this.initialize(ss["invitacionBoda_atlas_123"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0053 = function() {
+	this.initialize(ss["invitacionBoda_atlas_112"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0054 = function() {
+	this.initialize(ss["invitacionBoda_atlas_118"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Intro_0055 = function() {
+	this.initialize(ss["invitacionBoda_atlas_117"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.Intro_0056 = function() {
-	this.initialize(ss["invitacionBoda_atlas_126"]);
+	this.initialize(ss["invitacionBoda_atlas_114"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0057 = function() {
-	this.initialize(ss["invitacionBoda_atlas_130"]);
+	this.initialize(ss["invitacionBoda_atlas_122"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Intro_0058 = function() {
-	this.initialize(ss["invitacionBoda_atlas_102"]);
+	this.initialize(ss["invitacionBoda_atlas_113"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -2688,7 +2688,7 @@ p.nominalBounds = new cjs.Rectangle(-19,-22,95.5,95.5);
 
 // stage content:
 (lib.invitacionBoda = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// timeline functions:
 	this.frame_0 = function() {
